@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @reggieh54
+- 👋 Hi, I’m @rexhector
 - 👀 I’m interested in Fishing, Video Games and Photography 
 - 🌱 I’m currently learning Software Engineering fundimentals 
 -💻 I’m looking to collaborate with more engineers in the tech
 - 📫 How to reach me: 
--   Reginald.hector@outlook.com
+-   reginald.xh@icloud.com
 
 
 <!---
