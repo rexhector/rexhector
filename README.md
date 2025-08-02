@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @rexhector
-- 👀 I’m interested in Fishing, Video Games and Photography 
-- 🌱 I’m currently learning Software Engineering fundimentals 
+- 👋 Hi, I’m @rexxer
+- 👀 I’m interested in Vintage Cars , Salt Water Fishing, Video Games and Photography 
+- 🌱 I’m currently a Senior Infrastructure Engineer. Previously I was Senior Systems Engineer with a focus in Hardware configuratiions in the LCM Work flow; relating to Apple Products and MDM Soltuions
 -💻 I’m looking to collaborate with more engineers in the tech
 - 📫 How to reach me: 
--   reginald.xh@icloud.com
+-   rex_xer@icloud.com
 
 
 <!---
